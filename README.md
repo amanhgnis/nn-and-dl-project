@@ -11,6 +11,7 @@ Conditional Adversarial Networks", CVPR 2017
     - [X] Use additional perceptual losses.
     - [X] Implement the W-GAN training mechanism.
     - [X] One sided label smoothing.
+    - [X] Pre-trained generator.
 
 ## Team
 [Amanpreet Singh](https://github.com/amanhgnis) and [Tommaso Urbani](https://github.com/urbanitomm) 
